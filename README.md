@@ -25,23 +25,19 @@ Screenshot → Vision Model → Coordinates → ImageMagick Blur → Verify
 
 ### Before & After
 
-**Claude Desktop** - Sidebar conversations blurred:
-
-| Before | After |
-|--------|-------|
-| ![Claude before](examples/claude/before.png) | ![Claude after](examples/claude/after.png) |
-
-**Tana** - Meeting titles, personal names, and calendar events blurred:
-
-| Before | After |
-|--------|-------|
-| ![Tana before](examples/tana/before.png) | ![Tana after](examples/tana/after.png) |
-
 **Codex** - Project list and conversation history blurred:
 
 | Before | After |
 |--------|-------|
 | ![Codex before](examples/codex/before.png) | ![Codex after](examples/codex/after.png) |
+
+**Claude Desktop** - Sidebar conversations blurred:
+
+![Claude after](examples/claude/after.png)
+
+**Tana** - Meeting titles, personal names, and calendar events blurred:
+
+![Tana after](examples/tana/after.png)
 
 ## How It Works
 
